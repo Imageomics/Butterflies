@@ -20,7 +20,7 @@ The big biological question of connecting phenotype to genotype shapes the futur
 - Custom 15 layer CNN + triplet loss
 - Refer to metadata for files used within code
 - 24 subspecies, 12 mimic pairs
-- Full data is available on the [Imageomics Hugging Face](https://huggingface.co/datasets?other=doi%3A10.57967%2Fhf%2F1351).
+- Full data is available on the [Imageomics Hugging Face](https://doi.org/10.57967/hf/1351).
 
 ## Jiggins dataset
 
