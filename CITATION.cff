@@ -1,0 +1,36 @@
+# following https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+
+authors:
+- family-names: "Ramesh Babu"
+  given-names: "Reshma"
+  orcid: "http://orcid.org/0000-0002-2517-5347"
+cff-version: 1.2.0
+date-released: "2023-12-05"
+identifiers:
+  - description: "The GitHub release URL of tag 1.0.0."
+    type: url
+    value: "https://github.com/Imageomics/Butterfly-mimicry/releases/tag/v1.0.0"
+  - description: "The GitHub URL of the commit tagged with 1.0.0."
+    type: url
+    value: "https://github.com/Imageomics/Butterfly-mimicry/tree/<commit>"
+keywords:
+  - "imageomics"
+  - "butterflies"
+  - "mimicry"
+  - "machine learning"
+  - "computer vision"
+  - "traits"
+license: MIT
+message: "If you use this software, please cite both the thesis from preferred-citation and the software itself."
+repository-code: "https://github.com/Imageomics/Butterfly-mimicry"
+preferred-citation:
+  type: "mastersthesis"
+  authors:
+    - family-names: "Ramesh Babu"
+      given-names: "Reshma"
+  title: "Imageomics Approach to Understanding Visual Biological Trait Similarities using Butterfly Mimicry as a Model System"
+  school: "The Ohio State University"
+  year: 2023
+  url: "http://rave.ohiolink.edu/etdc/view?acc_num=osu168198420667979"
+title: "Understanding Mimicry in Butterflies from Images using Machine Learning"
+version: 1.0.0
