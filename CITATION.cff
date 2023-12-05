@@ -12,7 +12,7 @@ identifiers:
     value: "https://github.com/Imageomics/Butterfly-mimicry/releases/tag/v1.0.0"
   - description: "The GitHub URL of the commit tagged with 1.0.0."
     type: url
-    value: "https://github.com/Imageomics/Butterfly-mimicry/tree/<commit>"
+    value: "https://github.com/Imageomics/Butterfly-mimicry/tree/482c3a8bd23846cc2777f0f179f3ef25a3a5d867"
 keywords:
   - "imageomics"
   - "butterflies"
