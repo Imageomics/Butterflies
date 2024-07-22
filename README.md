@@ -1,4 +1,4 @@
-# Understanding Mimicry in Butterflies from Images using Machine Learning
+# Using Deep Learning to Quantify Phenotypic Similarities in Mimic Butterfly Species using Bird, Human, and Butterfly Acuities
 
 ## Abstract
 
